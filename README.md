@@ -6,4 +6,5 @@
 - Uses Redis database (without password)
 ## Jenkins
 - [WEB](http://jenkins.romalap.com/)
-- 
+- job visitor-counter
+- [Node with counter](http://141.147.49.184/)
