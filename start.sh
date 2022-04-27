@@ -26,7 +26,7 @@ function amazon {
     sudo systemctl restart httpd
     return 0; }
 
-    function rhel {
+function rhel {
     sudo yum -y install yum-utils
     sudo yum -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
     sudo yum -y install https://rpms.remirepo.net/enterprise/remi-release-8.rpm
